@@ -34,12 +34,12 @@
     "updatedb-debug": "node scripts/updatedb.js debug"
   },
   "dependencies": {
-    "async": "~0.1.22",
-    "colors": "0.6.0-1",
-    "iconv-lite": "~0.2.11",
+    "async": "~2.5.0",
+    "colors": "1.1.2",
+    "iconv-lite": "~0.4.18",
     "lazy": "~1.0.11",
-    "rimraf": "~2.0.2",
-    "unzip": "~0.0.4"
+    "rimraf": "~2.6.1",
+    "unzip": "~0.1.11"
   },
   "config": {
     "update": true
